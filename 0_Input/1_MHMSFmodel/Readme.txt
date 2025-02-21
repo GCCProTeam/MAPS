@@ -1,0 +1,1 @@
+It is noted that all the RES and NAV files need to be decompressed first.

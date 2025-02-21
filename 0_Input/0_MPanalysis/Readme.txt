@@ -1,0 +1,1 @@
+It is noted that all the OBS, SP3, CLK, NAV, DCB, ATX, and CN0 files need to be decompressed first.
